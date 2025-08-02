@@ -1,0 +1,5 @@
+.venv
+build/
+dist/
+asetukset.txt
+__pycache__/
