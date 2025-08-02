@@ -34,4 +34,4 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## Credits
 
-The project was made by Julle98 and Copilot was used as an aid.
+Created by Julle98 with assistance from Copilot.
