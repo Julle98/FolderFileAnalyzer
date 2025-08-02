@@ -21,9 +21,9 @@
 ## Supported File Formats
 
 The analyzer scans only files with the following extensions:
-
+```
 ALLOWED ENDORSEMENTS = {'.py', '.js', '.css', '.html', '.json'}
-
+```
 ---
 
 ## License
