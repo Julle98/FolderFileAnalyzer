@@ -22,7 +22,6 @@
 
 The analyzer scans only files with the following extensions:
 
-```python
 ALLOWED ENDORSEMENTS = {'.py', '.js', '.css', '.html', '.json'}
 
 ---
