@@ -14,7 +14,7 @@
 - Option to blur file paths for privacy
 - Save results to CSV
 - Temporary folder cleanup and cache clearing
-- Remembers your settings between sessions
+- Remembers your settings between sessions and opened them back
 
 ---
 
