@@ -35,3 +35,4 @@ See the [LICENSE](LICENSE) file for full details.
 ## Credits
 
 Created by Julle98 with assistance from Copilot.
+Contact on my socials in profile if you need it.
